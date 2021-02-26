@@ -1,4 +1,4 @@
-### Hi, I am Nathan. I am an engineer passionate about using software and data to make the world a more sustainable place.
+### Welcome to my portfolio! I am an engineer passionate about using software and data to make the world a more sustainable place.
 
 
 - 🔭 I’m currently working on [Police Use of Force Dashboard](a.humanrightsfirst.dev).
